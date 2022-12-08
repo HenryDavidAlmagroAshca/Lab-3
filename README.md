@@ -95,7 +95,6 @@ https://youtu.be/znX9LzsUtSs
 
 #7. BIBLIOGRAFÍA
 
-
-Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.). México: Pearson Educación. Retrieved Noviembre 2022
+-Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.). México: Pearson Educación. Retrieved Noviembre 2022
 
 -Salazar, A. (2012). 3. Análisis Por Nodos Y Mallas 3.1. 35–62. http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
