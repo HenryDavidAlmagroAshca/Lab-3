@@ -18,21 +18,43 @@ Alumno: Almagro Henry
 
 Materiales
 
-1 Fuente de Voltaje de C.D.
+    1 Fuente de Voltaje de C.D.
+    1 Multímetro Digital
+    1 Resistor de 1.8 kΩ
+    1 Resistor de 470 Ω
+    1 Resistor de 1.5 kΩ
+    1 Resistor de 3.9 kΩ
+    1 Resistor de 2.2 kΩ
+    1 Protoboard
 
-1 Multímetro Digital
+Procedimiento
 
-1 Resistor de 1.8 kΩ
+    Implemente el circuito que se presenta
 
-1 Resistor de 470 Ω
+![image](https://user-images.githubusercontent.com/116781677/206388082-3a62ef4c-c89f-498a-93c5-c420ea7acdaa.png)
 
-1 Resistor de 1.5 kΩ
+    Uso de simulador
+    
+![image](https://user-images.githubusercontent.com/116781677/206388361-907555c1-76a2-4316-b3dc-f96469cfb34b.png)
 
-1 Resistor de 3.9 kΩ
+    Mida cada uno de los voltajes de nodo y anote los resultados
+    
+![image](https://user-images.githubusercontent.com/116781677/206391059-21674ca4-3365-44d3-b150-2f17f9295816.png)
 
-1 Resistor de 2.2 kΩ
+    Identificando los nodos principales y los nodos de referencia, completamos la tabla de datos
+ 
+Nodo principal A
 
-1 Protoboard
+    Resistor de 1.8 kΩ
+    Resistor de 470 Ω
+    Resistor de 2.2 kΩ
+
+Nodo principal B
+
+    Resistor de 2.2 kΩ
+    Resistor de 1.5 kΩ
+    Resistor de 3.9 kΩ
+
 
 #4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
