@@ -6,7 +6,7 @@ Ing. Darwin Alulema
 
 Alumno: Almagro Henry
 
-#1. OBJETIVOS
+# 1. OBJETIVOS
 
 Objetivo general:
 
@@ -18,11 +18,11 @@ Objetivos especificos:
 
 -Diseñar el esquema propuesto una tomar medidas de voltaje en los nodos y verificar si sale lo mismo realizando teóricamente.
 
-#2. MARCO TEORICO
+# 2. MARCO TEORICO
 
 ![image](https://user-images.githubusercontent.com/116781677/206399308-f79ddda8-8ba0-481a-b97b-2ccffe40a10b.png)
 
-#3. EXPLICACIÓN DEL PROCEDIMIENTO
+# 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 Materiales
 
@@ -73,7 +73,7 @@ Completamos la tabla
 
 ![image](https://user-images.githubusercontent.com/116781677/206397947-d0e376c4-6dfa-42d5-8852-a30ecbc0b802.png)
 
-#4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+# 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 Calculo teorico de los voltajes 
 
@@ -83,17 +83,17 @@ Calculo de error
 
 ![image](https://user-images.githubusercontent.com/116781677/206404742-9d46db2b-99e3-444c-845b-7ae98743069d.png)
 
-#5. VIDEO
+# 5. VIDEO
 
 https://youtu.be/znX9LzsUtSs
 
-#6. CONCLUSIONES
+# 6. CONCLUSIONES
 
 -Se determinó que gracias al análisis de nodos se puede obtener los valores de los voltajes de nodo en un circuito eléctrico por medio de un sistema de ecuaciones.
 
 -Diseñamos el circuito con la ayuda del simulador y ademas tomamos medidas de tensión en nodos y verificamos que salio lo mismo realizando de manera teórica como lo indica el cuadro.
 
-#7. BIBLIOGRAFÍA
+# 7. BIBLIOGRAFÍA
 
 -Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.). México: Pearson Educación. Retrieved Noviembre 2022
 
